@@ -1,6 +1,5 @@
 # Hacking Smart Toys for AI Learning 
-
-![](https://imgur.com/a/xAfRs74)      
+![alt text](https://imgur.com/a/xAfRs74)      
 
 ### This is the syllabus for the Hacking Smart Toys Graduate Class at NYU ITP Spring 2019 
 
