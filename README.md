@@ -9,7 +9,7 @@
 * Instructor Name: Stefania Druga 
 * Instructor Email: sd3107@nyu.edu
 * Office Hours: https://sditp.youcanbook.me
-* Class Calendar: [here!](https://calendar.google.com/calendar/b/4?cid=bnl1LmVkdV91Zmd0czg5bzQ1cDJ2Nm45Z2UycWxsYmIwOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* Class Calendar: [here](https://calendar.google.com/calendar/b/4?cid=bnl1LmVkdV91Zmd0czg5bzQ1cDJ2Nm45Z2UycWxsYmIwOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 ### Objectives:
 Students will also design their own AI toys or construction kits which they will test in local communities (schools, libraries, museum, community centers). Final projects will be displayed in a play exhibition where all communities involved throughout the course will be invited to participate. 
 
