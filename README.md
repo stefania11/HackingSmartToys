@@ -107,6 +107,9 @@ Assignment: Pick a paper from previous [proceedings to Interaction Design for Ch
 #### Week 7: Discover and play with VUI (Alexa, Ghome, chatbots) 
 Date: 03.15.2019
 
+Activity: we will dive into various VUI platforms and learn how to customize the interaction flow. 
+
+Assignment: Find a paper that researches the impact of VUI on people and discuss it in your class journal. 
 
 #### Week 8: Bring to life your old toys
 Date: 03.22.2019
@@ -115,14 +118,66 @@ Activity: In this class we will hack our old toys and bring them to life. Bring 
 
 Assignment: Make a proposal for your final project (toy, kit, learning experience) that is meant to be a learning experience for 21st centure that is truly designed for kids and it enhances their understanding of new technologies while building on an old tradition and history of play. 
 
-#### Week 9: Materials trip (site visit to Material Connexion) 
 
-We will do a site-visit to https://www.materialconnexion.com/ and discover properties of different materials and make a selection of things to use in your final projects. 
 
-### Suggested Reading
+#### Week 9: Program your DIY toy/kit  
+Date: 03.29.2019
+
+Activity: In this class, we will learn how to make our DIY programmable toys/kits for kids by creating and modifying existing [Scratch!](scratch.mit.edu) and [Cognimates!](cognimates.me) block extensions. 
+
+Review: We will review and discuss final project proposals and create teams.
+
+Assignment: Create a starter project and learning activity with the new programming extension you built.
+
+
+
+#### Week 10: Train your DIY toy/kit  
+Date: 04.05.2019
+
+Activity: In this class, we will learn how to train our DIY programmable toys/kits for kids by using transfer learning and custom classifiers APIs. See example [Teach AI!](http://cognimate.me:2635/home) page on Cognimates. We will discuss how to build games and learning activities for children to be able to use our teach the toy system.  
+
+Review: We will review and discuss starter projects from previous week assignment.
+
+Assignment: Create a user-friendly interface for kids to teach/train your DIY toy. 
+
+
+#### Week 11: Materials trip (site visit to Material Connexion) 
+Date: 04.12.2019
+
+Activity: We will do a site-visit to https://www.materialconnexion.com/ and discover properties of different materials and make a selection of things to use in your final projects. 
+
+Review: Teach/train toy UI's from previous week
+
+Assignment: Pick a target audience for your final project and conduct user interviews and initial playtests. 
+
+#### Week 12: Putting it all together! 
+Date: 04.19.2019
+
+Activity: In this class, we will put together the initial concept boards for our final projects based on user interviews and explore various technical options for the programming/training functionalities. 
+
+Assignment: Build an initial prototype for your final project and test it with friends and target audience if possible. 
+
+
+#### Week 13: Guest speakers - Game Designers 
+Date: 04.26.2019
+
+Activity: We will get to hear presentations from several experienced game designers and learn how to think about flow and engagement when designing a toy, kit or any other learning activity.
+Assignment: Work on final projects and play expo. 
+
+#### Week 14: Play-a-thon (final presentations)! 
+Date: 05.03.2019
+
+Activity: Final projects play-a-thon with external guests (kids, families, educators, etc). 
+
+
+## Suggested Reading
 
 #### On Kids & AI 
-Stefania Druga - [Growing up with AI!]()
+
+Sherry Turkle - [Second Self!](https://monoskop.org/images/5/55/Turkle_Sherry_The_Second_Self_Computers_and_the_Human_Spirit_20th_ed.pdf)
+Edith Ackermann - [AniMates - Playthings that do things!](https://www.childresearch.net/RESOURCE/RESEARCH/2005/playthings.pdf)
+Stefania Druga - [Growing up with AI!](https://bit.ly/growupai)
+Emilie Beneteau et al - [Communication Breakdowns Between Families and Alexa!](http://bigyipper.com/beneteau-et-al-2019/)
 
 #### On Toys & Play 
 Brian Sutton-Smith - Toys as Culture 
