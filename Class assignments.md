@@ -1,6 +1,4 @@
 # First week assignment
-(add links to your blogposts here)
-
 
 * Nick Tanic
 https://www.nicktanic.com/blog/2019/2/8/a-whole-new-way-to-play/
@@ -35,6 +33,10 @@ https://www.aboltaabol.me/blog/?category=Hacking+smart+toys
 
 * Amena 
 https://amenahayat.wordpress.com/2019/02/08/evocative-object-my-encyclopedias/
+
+
+# Second week assignment
+
 
 
 
