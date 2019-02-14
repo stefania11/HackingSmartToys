@@ -37,6 +37,7 @@ https://amenahayat.wordpress.com/2019/02/08/evocative-object-my-encyclopedias/
 
 # Second week assignment
 
-
+* Lydia Jessup, Winie Yoe, Shu-ju Lin, Rebecca Skurnik: 
+https://www.lydiajessup.me/spring-2019-ai-toys/2019/2/14/week-2-learning-with-cozmo
 
 
