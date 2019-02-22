@@ -45,3 +45,4 @@ https://www.lydiajessup.me/spring-2019-ai-toys/2019/2/14/week-2-learning-with-co
 # Third week assignment
 
 * Lydia https://www.lydiajessup.me/spring-2019-ai-toys/2019/2/21/week-3-toy-research
+* Veronica https://www.veronica-alfaro.com/blog/2019/2/20/toy-analysis-strider-bikes
