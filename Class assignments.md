@@ -42,4 +42,6 @@ https://www.lydiajessup.me/spring-2019-ai-toys/2019/2/14/week-2-learning-with-co
 
 * Veronica Alfaro, Arnab Chakravarty : https://www.veronica-alfaro.com/blog/2019/2/15/hacking-cozmo-teaching-kids-to-be-kind
 
+# Third week assignment
 
+* Lydia https://www.lydiajessup.me/spring-2019-ai-toys/2019/2/21/week-3-toy-research
