@@ -80,7 +80,8 @@ http://blog.shujuuu.com/sculptapalooza
  
 # Fourth-week assignment
 
-* Lydia, Veronica, Arnab: https://www.lydiajessup.me/spring-2019-ai-toys/2019/3/1/week-4-low-fi-toy-prototype
+* Lydia, Veronica, Arnab: Assignment: https://www.lydiajessup.me/spring-2019-ai-toys/2019/3/1/week-4-low-fi-toy-prototype
+Feedback documentation: https://www.veronica-alfaro.com/blog/2019/3/6/lo-fi-toy-prototype-feedback
 
 * Shuju, Winnie:
 https://www.winnieyoe.com/hackingsmarttoy/week-4-smart-toy-ideation
