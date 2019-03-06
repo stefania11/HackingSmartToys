@@ -42,8 +42,51 @@ https://www.lydiajessup.me/spring-2019-ai-toys/2019/2/14/week-2-learning-with-co
 
 * Veronica Alfaro, Arnab Chakravarty : https://www.veronica-alfaro.com/blog/2019/2/15/hacking-cozmo-teaching-kids-to-be-kind
 
-# Third week assignment
 
-* Lydia https://www.lydiajessup.me/spring-2019-ai-toys/2019/2/21/week-3-toy-research
+# Third-week assignment
+* Winnie Yoe
+https://www.winnieyoe.com/hackingsmarttoy/week-3
+
+* Chunhan Chen
+http://chunhan-creations.hosting.nyu.edu/itp-courses/hacking-smart-toys-week-3-research-assignment/
+
+* Tianyi Xie 
+http://tianyix.hosting.nyu.edu/blog/hacking-smart-toys/toy-research-report-botley-the-coding-robot/
+
+* Helen Tang
+http://helentang.hosting.nyu.edu/nyu-itp-2019-spring/week-03-smart-toys/
+
+* Olivia Kung https://oliviakung.com/spring2019blog/smarttoys3 
+
+* Arnab https://www.aboltaabol.me/blog/2019/2/22/what-does-the-world-think-of-cozmo
+
+* Lydia Jessup https://www.lydiajessup.me/spring-2019-ai-toys/2019/2/21/week-3-toy-research
+
+* Rebecca Skurnik
+ https://wp.nyu.edu/tisch-rebeccaskurnik/2019/02/19/toy-research/ 
 * Veronica https://www.veronica-alfaro.com/blog/2019/2/20/toy-analysis-strider-bikes
-* Shuju http://blog.shujuuu.com/sculptapalooza/
+* Amena
+https://docs.google.com/document/d/1DR4_DflJg_aIEUKbkxkrdoaeigG0UaE1lUgq5n7229c/edit?usp=sharing
+
+* Shawn
+https://shawnmasite.wordpress.com/2019/02/21/fidget-spinner/
+
+* Shuju
+http://blog.shujuuu.com/sculptapalooza
+
+* Rachel https://raclims.wordpress.com/2019/02/22/week-3-fidget-spinners/
+
+
+ 
+# Fourth-week assignment
+
+* Lydia, Veronica, Arnab: https://www.lydiajessup.me/spring-2019-ai-toys/2019/3/1/week-4-low-fi-toy-prototype
+
+* Shuju, Winnie:
+https://www.winnieyoe.com/hackingsmarttoy/week-4-smart-toy-ideation
+
+* Shawn, Rachel, Olivia:
+https://oliviakung.com/spring2019blog/smarttoys4
+
+
+
