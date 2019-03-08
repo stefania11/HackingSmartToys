@@ -93,3 +93,4 @@ https://oliviakung.com/spring2019blog/smarttoys4
 # Fifth-week assignment
 
 * Lydia: https://www.lydiajessup.me/spring-2019-ai-toys/2019/3/7/week-5-research-paper
+* Veronica: https://www.veronica-alfaro.com/blog/2019/3/7/paper-review-participatory-design-with-children-with-autism
