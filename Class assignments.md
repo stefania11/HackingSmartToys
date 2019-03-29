@@ -39,9 +39,9 @@ https://amenahayat.wordpress.com/2019/02/08/evocative-object-my-encyclopedias/
 
 * Lydia Jessup, Winie Yoe, Shu-ju Lin, Rebecca Skurnik: 
 https://www.lydiajessup.me/spring-2019-ai-toys/2019/2/14/week-2-learning-with-cozmo
-
 * Veronica Alfaro, Arnab Chakravarty : https://www.veronica-alfaro.com/blog/2019/2/15/hacking-cozmo-teaching-kids-to-be-kind
-
+* Rachel, Shawn, Olivia: https://raclims.wordpress.com/2019/02/15/week-2-sphero-mini-activity/
+* Helen Tang, Tianyi Xie, Chunhan Chen: http://chunhan-creations.hosting.nyu.edu/itp-courses/hacking-smart-toys-week-2-persona-ballsona-with-sphero/
 
 # Third-week assignment
 * Winnie Yoe
@@ -77,11 +77,9 @@ http://blog.shujuuu.com/sculptapalooza
 * Rachel https://raclims.wordpress.com/2019/02/22/week-3-fidget-spinners/
 
 
- 
 # Fourth-week assignment
 
-* Lydia, Veronica, Arnab: Assignment: https://www.lydiajessup.me/spring-2019-ai-toys/2019/3/1/week-4-low-fi-toy-prototype
-Feedback documentation: https://www.veronica-alfaro.com/blog/2019/3/6/lo-fi-toy-prototype-feedback
+* Lydia, Veronica, Arnab: https://www.lydiajessup.me/spring-2019-ai-toys/2019/3/1/week-4-low-fi-toy-prototype
 
 * Shuju, Winnie:
 https://www.winnieyoe.com/hackingsmarttoy/week-4-smart-toy-ideation
@@ -89,8 +87,33 @@ https://www.winnieyoe.com/hackingsmarttoy/week-4-smart-toy-ideation
 * Shawn, Rachel, Olivia:
 https://oliviakung.com/spring2019blog/smarttoys4
 
+* Rebecca and Amena:
+https://wp.nyu.edu/tisch-rebeccaskurnik/2019/03/07/our-farm-animals-toy/
+
+* Chunhan, Yihan(Helen) and Tianyi:
+http://tianyix.hosting.nyu.edu/blog/hacking-smart-toys/low-fidelity-design-the-water-maze/
+
+
+
 
 # Fifth-week assignment
 
-* Lydia: https://www.lydiajessup.me/spring-2019-ai-toys/2019/3/7/week-5-research-paper
-* Veronica: https://www.veronica-alfaro.com/blog/2019/3/7/paper-review-participatory-design-with-children-with-autism
+* Lydia Jessup: https://www.lydiajessup.me/spring-2019-ai-toys/2019/3/7/week-5-research-paper 
+
+* Rachel Lim: https://raclims.wordpress.com/2019/03/08/week-6-idc-article/
+* Shuju Lin: http://blog.shujuuu.com/research-paper/
+
+* Rebecca Skurnik: https://wp.nyu.edu/tisch-rebeccaskurnik/2019/03/08/proceedings-to-i…ldren-conference/
+
+* Olivia Kung: https://oliviakung.com/spring2019blog/smarttoys5
+
+* Winnie Yoe: https://www.winnieyoe.com/hackingsmarttoy/week-5
+
+* Helen Tang: http://helentang.hosting.nyu.edu/nyu-itp-2019-spring/week-05/
+
+* Chunhan Chen: http://chunhan-creations.hosting.nyu.edu/itp-courses/smart-toys-week-5-literature-study/
+
+* Tianyi Xie: http://tianyix.hosting.nyu.edu/blog/hacking-smart-toys/research-paper-takeaways/
+
+# Sixt-week assignment
+Add links to mid-term project documentation 
