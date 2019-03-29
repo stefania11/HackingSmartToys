@@ -99,7 +99,7 @@ http://tianyix.hosting.nyu.edu/blog/hacking-smart-toys/low-fidelity-design-the-w
 # Fifth-week assignment
 
 * Lydia Jessup: https://www.lydiajessup.me/spring-2019-ai-toys/2019/3/7/week-5-research-paper 
-
+* Veronica: https://www.veronica-alfaro.com/blog/2019/3/7/paper-review-participatory-design-with-children-with-autism
 * Rachel Lim: https://raclims.wordpress.com/2019/03/08/week-6-idc-article/
 * Shuju Lin: http://blog.shujuuu.com/research-paper/
 
