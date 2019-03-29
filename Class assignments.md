@@ -117,3 +117,5 @@ http://tianyix.hosting.nyu.edu/blog/hacking-smart-toys/low-fidelity-design-the-w
 
 # Sixt-week assignment
 Add links to mid-term project documentation 
+
+* Lydia, Arnab and Veronica: https://www.lydiajessup.me/spring-2019-ai-toys
