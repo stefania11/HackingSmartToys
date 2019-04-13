@@ -123,3 +123,5 @@ Add links to mid-term project documentation
 * Shawn, Rachel, Olivia: https://oliviakung.com/spring2019blog/smarttoys6
 
 * Tianyi Xie, Chunhan Chen, Helen Tang: https://docs.google.com/document/d/1Xmp2BtCFWGfHiS8DV3_vY0rgI_9B3Ft9iIvwvFd5WY4/edit?usp=sharing
+
+* Shuju, Winnie: http://blog.shujuuu.com/twister-game/
