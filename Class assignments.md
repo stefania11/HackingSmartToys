@@ -125,3 +125,7 @@ Add links to mid-term project documentation
 * Tianyi Xie, Chunhan Chen, Helen Tang: https://docs.google.com/document/d/1Xmp2BtCFWGfHiS8DV3_vY0rgI_9B3Ft9iIvwvFd5WY4/edit?usp=sharing
 
 * Shuju, Winnie: http://blog.shujuuu.com/twister-game/
+
+
+# Seventh-week assignment
+* Lydia, Arnab and Veronica https://www.lydiajessup.me/spring-2019-ai-toys/2019/4/15/week-8-user-testing
