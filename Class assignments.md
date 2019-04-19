@@ -130,6 +130,9 @@ Add links to mid-term project documentation
 # Seventh-week assignment
 * Lydia, Arnab and Veronica https://www.lydiajessup.me/spring-2019-ai-toys/2019/4/15/week-8-user-testing
 
+* Shawn, Rachel, Olivia: https://oliviakung.com/spring2019blog/smarttoys78
+
+
 # Tenth-week assignment
 * Lydia: https://www.lydiajessup.me/spring-2019-ai-toys/2019/4/18/week-10-state-of-ai-research
 
