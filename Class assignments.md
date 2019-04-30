@@ -132,6 +132,8 @@ Add links to mid-term project documentation
 
 * Shawn, Rachel, Olivia: https://oliviakung.com/spring2019blog/smarttoys78
 
+* Shuju, Winnie http://blog.shujuuu.com/soundplay/
+
 
 # Tenth-week assignment
 * Lydia: https://www.lydiajessup.me/spring-2019-ai-toys/2019/4/18/week-10-state-of-ai-research
